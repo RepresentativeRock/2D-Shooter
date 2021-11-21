@@ -6,6 +6,7 @@
     {"id":{"name":"obj_enemy_bullet","path":"objects/obj_enemy_bullet/obj_enemy_bullet.yy",},"order":4,},
     {"id":{"name":"spr_5","path":"sprites/spr_5/spr_5.yy",},"order":10,},
     {"id":{"name":"spr_40","path":"sprites/spr_40/spr_40.yy",},"order":8,},
+    {"id":{"name":"obj_ww1_nazi_soldier","path":"objects/obj_ww1_nazi_soldier/obj_ww1_nazi_soldier.yy",},"order":6,},
     {"id":{"name":"obj_player_bullet","path":"objects/obj_player_bullet/obj_player_bullet.yy",},"order":2,},
     {"id":{"name":"spr_65","path":"sprites/spr_65/spr_65.yy",},"order":15,},
     {"id":{"name":"spr_55","path":"sprites/spr_55/spr_55.yy",},"order":12,},
