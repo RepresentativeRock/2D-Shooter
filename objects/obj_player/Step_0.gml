@@ -43,3 +43,7 @@ move_wrap(true, true, spr_player*4)
 if global.pHealth = 0{
 	instance_destroy();
 };
+
+if global.pHealth = 0{
+	room = rm_L
+};

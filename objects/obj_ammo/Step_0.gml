@@ -1,3 +1,7 @@
+if global.pHealth = 0{
+	myTimer[1] = -1
+};
+
 if global.ammoCount > 0{
 	if mouse_check_button_pressed(mb_left){
 		if myTimer[1] = 0{
